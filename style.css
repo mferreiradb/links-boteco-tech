@@ -69,4 +69,13 @@ a:hover {
     border-radius: 50%;
     border: 4px solid #a57e2a;
   }
+
+  a:hover {
+    transition: none;
+    filter: none;
+  }
+
+  a {
+    transition: none;
+  }
 }
