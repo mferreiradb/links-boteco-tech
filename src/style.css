@@ -32,10 +32,7 @@ nav {
   display: flex;
   flex-direction: column;
   text-align: center;
-}
-
-a + .grupo {
-  margin: 0.8rem 0;
+  gap: 0.8rem;
 }
 
 a {
